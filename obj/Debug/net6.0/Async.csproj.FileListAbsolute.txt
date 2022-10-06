@@ -1,0 +1,15 @@
+D:\Rookies\Code C#\Async\bin\Debug\net6.0\Async.exe
+D:\Rookies\Code C#\Async\bin\Debug\net6.0\Async.deps.json
+D:\Rookies\Code C#\Async\bin\Debug\net6.0\Async.runtimeconfig.json
+D:\Rookies\Code C#\Async\bin\Debug\net6.0\Async.dll
+D:\Rookies\Code C#\Async\bin\Debug\net6.0\Async.pdb
+D:\Rookies\Code C#\Async\obj\Debug\net6.0\Async.csproj.AssemblyReference.cache
+D:\Rookies\Code C#\Async\obj\Debug\net6.0\Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rookies\Code C#\Async\obj\Debug\net6.0\Async.AssemblyInfoInputs.cache
+D:\Rookies\Code C#\Async\obj\Debug\net6.0\Async.AssemblyInfo.cs
+D:\Rookies\Code C#\Async\obj\Debug\net6.0\Async.csproj.CoreCompileInputs.cache
+D:\Rookies\Code C#\Async\obj\Debug\net6.0\Async.dll
+D:\Rookies\Code C#\Async\obj\Debug\net6.0\refint\Async.dll
+D:\Rookies\Code C#\Async\obj\Debug\net6.0\Async.pdb
+D:\Rookies\Code C#\Async\obj\Debug\net6.0\Async.genruntimeconfig.cache
+D:\Rookies\Code C#\Async\obj\Debug\net6.0\ref\Async.dll
